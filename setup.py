@@ -8,7 +8,7 @@ setup(
   author = 'Ishan Gambhir',                   
   author_email = 'ishugambhir2001@gmail.com',      
   url = 'https://github.com/co18326/rangev2',   
-  download_url = 'https://github.com/user/reponame/archive/v_01.tar.gz',    # I explain this later on
+  download_url = 'https://github.com/CO18326/rangev2/archive/v_01.tar.gz',    
   keywords = ['range', 'latest', 'beginer','library','gp','agp'],  
   install_requires=[            # I get to this in a second
           'validators',
