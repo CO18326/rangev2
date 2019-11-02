@@ -2,7 +2,7 @@ from distutils.core import setup
 setup(
   name = 'rangev2',         
   packages = ['rangev2'],  
-  version = '0.1',      
+  version = '0.1.1',      
   license='MIT',        
   description = 'A new version of python range',   
   long_description='rangev2 is next version of popular range class of python, which enables you to produce lists even by using *,/,// and % operators along with +,- operators'+
@@ -19,7 +19,7 @@ setup(
   author = 'Ishan Gambhir',                   
   author_email = 'ishugambhir2001@gmail.com',      
   url = 'https://github.com/co18326/rangev2',   
-  download_url = 'https://github.com/CO18326/rangev2/archive/v_01.tar.gz',    
+  download_url = 'https://github.com/CO18326/rangev2/archive/V_0.1.1.tar.gz',    
   keywords = ['range', 'latest', 'beginer','library','gp','agp'],  
   install_requires=[],
   classifiers=[
