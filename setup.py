@@ -10,10 +10,7 @@ setup(
   url = 'https://github.com/co18326/rangev2',   
   download_url = 'https://github.com/CO18326/rangev2/archive/v_01.tar.gz',    
   keywords = ['range', 'latest', 'beginer','library','gp','agp'],  
-  install_requires=[            # I get to this in a second
-          'validators',
-          'beautifulsoup4',
-      ],
+  install_requires=[],
   classifiers=[
     'Development Status :: 5 - Production/Stable',      
     'Intended Audience :: Developers',      
